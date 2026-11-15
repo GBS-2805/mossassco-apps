@@ -1,0 +1,5 @@
+# Mossassco catalogue
+# format: id|version|file1;file2|Label
+# bump the version to trigger an update on the board
+tetris|1|launcher.json;scripts/main.lua|Tetris
+template|1|launcher.json;scripts/main.lua|Template
